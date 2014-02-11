@@ -1,0 +1,11 @@
+/*Here is where you style things! :) */
+
+body {	background-color:#666; 
+		color:#FFF; 
+		font-family:Arial, Helvetica, sans-serif;
+		padding:10px;
+		}
+
+a:link    {color:#8DEEEE;}
+a:hover   {color:#DB2929;}
+a:active  {color:#7FFF00;}
